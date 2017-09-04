@@ -2,7 +2,7 @@
 <settings>
     <setting id="enter_all_videos" type="bool" label="32007" default="false" />
     <setting id="items_per_page" type="slider" label="32006" default="25" range="0,50" />
-    <setting id="api_key" type="text" default="AIzaSyAxaHJTQ5zgh86wk7geOwm-y0YyNMcEkSc" visible="false"/>
-    <setting id="channel_id" type="text" default="UCBmhEEQ5dCAWfCuTNrSplMw" visible="false"/>
+    <setting id="api_key" type="text" default="AIzaSyAAsgrIGx4e4AKN0FMp5orxfwjm55PL1js" visible="false"/>
+    <setting id="channel_id" type="text" default="UCiP6wD_tYlYLYh3agzbByWQ" visible="false"/>
 </settings>
 
