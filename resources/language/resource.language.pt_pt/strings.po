@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: It's a Pixel THING
-# Addon id: plugin.video.itsapixelthing
-# Addon Provider: enen92
+# Addon Name: Fitness Blender
+# Addon id: plugin.video.fitnessblender
+# Addon Provider: Dangelus
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Addons\n"
