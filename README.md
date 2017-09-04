@@ -1,6 +1,6 @@
 # plugin.video.fitnessblender
 
-![logo](https://github.com/dangelus1138/plugin.video.fitnessblenderv2/raw/master/resources/images/icon.png)
+![logo](https://github.com/dangelus1138/plugin.video.fitnessblenderv2/raw/master/resources/images/banner.png)
 
 Kodi add-on for the Youtube channel of Fitness Blender https://www.fitnessblender.com/
 
