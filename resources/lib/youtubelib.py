@@ -10,7 +10,7 @@ from xbmcgui import ListItem
 
 CHANNEL_ID = kodiutils.get_setting("channel_id")
 YOUTUBE_API_KEY = kodiutils.get_setting("api_key")
-TVSHOWTITLE = "It's a Pixel THING"
+TVSHOWTITLE = "Fitness Blender"
 CAST = [TVSHOWTITLE]
 STATUS = 'in production'
 
