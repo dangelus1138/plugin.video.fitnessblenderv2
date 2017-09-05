@@ -1,2 +1,4 @@
 v1.0.0
 - The first version of the addon
+v1.0.1
+- Licensing and addon id fixes
